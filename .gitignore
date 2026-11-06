@@ -1,0 +1,13 @@
+# Fichiers produits (OMOP Parquet)
+sortie/
+seance1_fhir/sortie/
+*.parquet
+
+# Python & Jupyter
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
